@@ -67,7 +67,7 @@ Running the application is very straight forward. You can use the following step
  
 ### DB Schema DIAGRAM
 
-- ![DB_DIAGRAM](https://dbdiagram.io/d/634fbcf2470941019593beee)
+[DB_DIAGRAM](https://dbdiagram.io/d/634fbcf2470941019593beee)
 
 ### Technology  Used
 
@@ -77,9 +77,6 @@ Running the application is very straight forward. You can use the following step
 
 [Go Back to the top](#Poverty-Line-Server)
 
-## Known Bugs :bug
-* 
-* 
 
 ## Future updates
 * Add more data models
